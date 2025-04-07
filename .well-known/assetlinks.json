@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.khaterstore",
+      "sha256_cert_fingerprints": [
+        "24:DB:B3:6D:A5:43:26:1F:08:0B:E5:F2:1F:44:59:A4:80:8A:F8:57:57:B6:BA:9B:A8:8E:63:48:34:63:F6:34"
+      ]
+    }
+  }
+]
